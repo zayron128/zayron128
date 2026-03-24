@@ -1,7 +1,19 @@
-# 🚀 Добро пожаловать на мой GitHub!
+<h1 align="center">Добро пожаловать на мой GitHub!</h1>
 
-Привет! Меня зовут **BlackByte**.
-Я backend-разработчик, специализируюсь на **C#** и серверной архитектуре.
+[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/gyjmkoo)
+[![Discord](https://img.shields.io/badge/-Discord-7289DA?style=flat&logo=discord&logoColor=white)](#)
+
+---
+
+![BlackByte's GitHub stats](https://github-readme-stats.vercel.app/api?username=blkbyte&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blkbyte&layout=compact)
+
+---
+
+## Приветствие
+
+Привет! Меня зовут **BlackByte**.  
+Я fullstack-разработчик, специализируюсь на **Python** и серверной архитектуре.  
 
 Создаю серверные системы, **API** и инструменты. Иногда разрабатываю небольшие сайты, чтобы визуализировать результаты работы backend-сервисов.
 
@@ -9,35 +21,41 @@
 
 ## 🧠 О себе
 
-* 🔹 Пишу на **C#**
-* 🔹 Изучаю backend-архитектуру
-* 🔹 Работаю с **Linux** и **Windows**
-* 🔹 Люблю терминал и низкоуровневую логику
-* 🔹 Строю фундамент для серьёзных проектов
-
----
-
-## 📦 Проекты
-
-* **artbao_app** — backend-часть приложения
-* **lera_app** — серверная логика
-* **FortelTerminal** — терминальная утилита
-* **devbox** — среда для разработки
-* **american-football** — сайт, созданный для школьной презентации
+* 🔹 Пишу на **Python, JavaScript**  
+* 🔹 Изучаю backend-архитектуру  
+* 🔹 Работаю с **Linux** и **Windows**  
+* 🔹 Люблю терминал и низкоуровневую логику  
+* 🔹 Строю фундамент для серьёзных проектов  
 
 ---
 
 ## 🛠 Технологии
 
-* C#
-* .NET
-* REST API
-* Git
-* Linux / Windows
+Python | JavaScript | HTML | CSS | React | Flask | Django | SQL | Git | Linux | Windows
+
+---
+
+## 📦 Проекты
+
+* [**blkbyte.github.io**](https://blkbyte.github.io) — мой сайт-портфолио  
+* [**FortelTerminal**](https://github.com/blkbyte/FortelTerminal) — терминальная утилита для работы с системой  
+* [**devbox**](https://github.com/blkbyte/devbox) — среда для разработки  
+* [**adavance-expedition**](https://github.com/blkbyte/adavance-expedition) — простой вебсайт  
+* [**artbao_app**](https://github.com/blkbyte/artbao_app) — демонстрация визуальных элементов  
+* [**lera_app**](https://github.com/blkbyte/lera_app) — простой вебсайт  
+* [**american-football**](https://github.com/blkbyte/american-football) — сайт для школьной презентации  
+
+---
+
+## 🎯 Цели
+
+* Создать веб-мессенджер на Python  
+* Изучить низкоуровневое программирование и серверную архитектуру  
+* Развивать фронтенд через React для своих проектов  
 
 ---
 
 ## 📬 Контакты
 
-* **Telegram:** `@blkbyte`
-* Discord: аккаунт временно недоступен
+* **Telegram:** [@blkbyte](https://t.me/gyjmkoo)  
+* **Discord:** аккаунт временно недоступен  
