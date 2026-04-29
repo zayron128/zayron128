@@ -5,14 +5,14 @@
 
 ---
 
-![BlackByte's GitHub stats](https://github-readme-stats.vercel.app/api?username=blkbyte&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blkbyte&layout=compact)
+![zayron128's GitHub stats](https://github-readme-stats.vercel.app/api?username=blkbyte&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zayron128&layout=compact)
 
 ---
 
 ## Приветствие
 
-Привет! Меня зовут **BlackByte**.  
+Привет! Меня зовут **ZAYRON**.  
 Я fullstack-разработчик, специализируюсь на **Python** и серверной архитектуре.  
 
 Создаю серверные системы, **API** и инструменты. Иногда разрабатываю небольшие сайты, чтобы визуализировать результаты работы backend-сервисов.
@@ -37,7 +37,7 @@ Python | JavaScript | HTML | CSS | React | Flask | Django | SQL | Git | Linux | 
 
 ## 📦 Проекты
 
-* [**blkbyte.github.io**](https://blkbyte.github.io) — мой сайт-портфолио  
+* [**zayron.github.io**](https://zayron.github.io) — мой сайт-портфолио  
 * [**FortelTerminal**](https://github.com/blkbyte/FortelTerminal) — терминальная утилита для работы с системой  
 * [**devbox**](https://github.com/blkbyte/devbox) — среда для разработки  
 * [**adavance-expedition**](https://github.com/blkbyte/adavance-expedition) — простой вебсайт  
@@ -57,5 +57,6 @@ Python | JavaScript | HTML | CSS | React | Flask | Django | SQL | Git | Linux | 
 
 ## 📬 Контакты
 
-* **Telegram:** [@blkbyte](https://t.me/gyjmkoo)  
-* **Discord:** аккаунт временно недоступен  
+* **Telegram:** [@zayron](https://t.me/gyjmkoo)  
+* **Discord:** аккаунт временно недоступен 
+* **Gmail:** zayron128@gmail.com 
