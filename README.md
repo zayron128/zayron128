@@ -37,7 +37,7 @@ Python | JavaScript | HTML | CSS | React | Flask | Django | SQL | Git | Linux | 
 
 ## 📦 Проекты
 
-* [**zayron.github.io**](https://zayron.github.io) — мой сайт-портфолио  
+* [**zayron.github.io**](https://zayron128.github.io) — мой сайт-портфолио  
 * [**FortelTerminal**](https://github.com/blkbyte/FortelTerminal) — терминальная утилита для работы с системой  
 * [**devbox**](https://github.com/blkbyte/devbox) — среда для разработки  
 * [**adavance-expedition**](https://github.com/blkbyte/adavance-expedition) — простой вебсайт  
