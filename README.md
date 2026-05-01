@@ -38,12 +38,12 @@ Python | JavaScript | HTML | CSS | React | Flask | Django | SQL | Git | Linux | 
 ## 📦 Проекты
 
 * [**zayron128.github.io**](https://zayron128.github.io) — мой сайт-портфолио  
-* [**FortelTerminal**](https://github.com/blkbyte/FortelTerminal) — терминальная утилита для работы с системой  
-* [**devbox**](https://github.com/blkbyte/devbox) — среда для разработки  
-* [**adavance-expedition**](https://github.com/blkbyte/adavance-expedition) — простой вебсайт  
-* [**artbao_app**](https://github.com/blkbyte/artbao_app) — демонстрация визуальных элементов  
-* [**lera_app**](https://github.com/blkbyte/lera_app) — простой вебсайт  
-* [**american-football**](https://github.com/blkbyte/american-football) — сайт для школьной презентации  
+* [**fortel-terminal**](https://github.com/zayron128/fortel-terminal) — терминальная утилита для работы с системой  
+* [**devbox**](https://github.com/zayron128/devbox) — среда для разработки  
+* [**riseland-travelsgroup**](https://github.com/zayron128/riselans-travelsgroup) — простой вебсайт  
+* [**artbao_app**](https://github.com/zayron128/artbao_app) — демонстрация визуальных элементов  
+* [**lera_app**](https://github.com/zayron128/lera_app) — простой вебсайт  
+* [**american-football**](https://github.com/zayron128/american-football) — сайт для школьной презентации  
 
 ---
 
